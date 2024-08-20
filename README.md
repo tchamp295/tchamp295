@@ -1,13 +1,13 @@
 Hi 👋 My name is Victor
 =======================
 
-a MERN stack and react native developer
+a full stack developer
 ---------------------------------------
 
-I am a results-driven developer skilled in MERN stack and React Native. I specialize in creating intuitive designs with React.js, building APIs with Node.js and NestJS, and crafting visuals with Figma and Sketch. I have a proven track record of delivering great user experiences and ensuring client satisfaction, and I'm eager to contribute my skills to a dynamic team.
+Results-driven developer skilled in MERN stack and React Native, specializing in intuitive designs, robust APIs, and compelling visuals.
 
 * 🌍  I'm based in kenya
-* 🖥️  See my portfolio at [https://victor-nyakundi-ndemo.vercel.app/](http://victor-nyakundi-ndemo.vercel.app/)
+* 🖥️  See my portfolio at [https://victor-n.vercel.app/)
 * ✉️  You can contact me at [nyakundivictorn@gmail.com](mailto:nyakundivictorn@gmail.com )
 * 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on interesting projects
