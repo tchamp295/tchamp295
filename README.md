@@ -1,12 +1,11 @@
 Hi 👋 My name is Victor
 =======================
 
-a full stack developer
+Full-stack developer
 ---------------------------------------
 
 Results-driven developer skilled in MERN stack and React Native, specializing in intuitive designs, robust APIs, and compelling visuals.
 
-* 🌍  I'm based in kenya
 * 🖥️  See my portfolio at [https://victor-n.vercel.app/)
 * ✉️  You can contact me at [nyakundivictorn@gmail.com](mailto:nyakundivictorn@gmail.com )
 * 🧠  I'm learning Nestjs
