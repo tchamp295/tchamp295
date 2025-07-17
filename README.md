@@ -6,7 +6,6 @@ Full-stack developer
 
 Results-driven developer skilled in MERN stack and React Native, specializing in intuitive designs, robust APIs, and compelling visuals.
 
-* 🖥️  See my portfolio at [https://victor.vercel.app/)
 * ✉️  You can contact me at [nyakundivictorn@gmail.com](mailto:nyakundivictorn@gmail.com )
 * 🧠  I'm learning Nestjs
 * 🤝  I'm open to collaborating on interesting projects
