@@ -21,4 +21,4 @@ that solve real problems. I ship owned features, not just tickets.
 
 ---
 
-![Victor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tchamp295&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)
+!![Victor's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchamp295&theme=github_dark)
