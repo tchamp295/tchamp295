@@ -21,4 +21,4 @@ that solve real problems. I ship owned features, not just tickets.
 
 ---
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tchamp295&theme=github_dark)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=tchamp295&theme=dark&hide_border=true)
