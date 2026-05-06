@@ -21,4 +21,4 @@ that solve real problems. I ship owned features, not just tickets.
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0891B2&width=435&lines=Senior+Full-Stack+Engineer;React+%7C+Node.js+%7C+Laravel;AI+Integration+%7C+NestJS)](https://git.io/typing-svg)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=tchamp295&theme=dark&hide_border=true)
